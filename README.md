@@ -9,6 +9,6 @@ Agenda 05-03-2019
 
 ### Supplementary reading
 
-* [Git Tutorial](other_materials/git-tutorials.md)
+* [Git Tutorial](other_materials/git-tutorial.md)
 * [How to Learn Python in Five Minutes](https://www.youtube.com/watch?v=ohr6O78jGzs)
 
